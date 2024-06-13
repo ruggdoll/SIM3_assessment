@@ -1,7 +1,7 @@
 # SIM3_assessment
 SIM3 assessmment Datasheet for fun and profit
 
-Provided as an ODF file since CSV wouldn't be quite as usefull and XLSX a bit risky.
+Provided as an ODS file since CSV wouldn't be quite as usefull and XLSX a bit risky.
 
 Not quite sure about the licence I should use, I'll happily answer any request from Open CSIRT Foundation.
 
